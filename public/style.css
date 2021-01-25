@@ -1,0 +1,27 @@
+body {
+    background: url("bg.png");
+
+}
+
+.title-mob {
+    width: 100%;
+}
+
+.insta {
+    margin-top: 2%;
+    margin-left: 10%;
+}
+
+.whats {
+    text-align: center;
+    display: block;
+    margin-top: 3%;
+}
+
+.insta-mob{
+    width: 90%;
+}
+
+.whats-mob {
+    width: 100%;
+}
